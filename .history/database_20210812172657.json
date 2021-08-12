@@ -55,37 +55,39 @@
     },
     {
       "id": 2,
-      "name": "iMac 27”",
+      "name": "iMac 24”",
       "display": 5,
       "price": 1799,
       "color": ["grey"],
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_imac27__ftc2wevwltym_small_2x.png",
-      "chip": "Core i9 processor",
-      "ram": "128gb",
-      "storage": "8TB",
+      "chip": "Apple M1 chip",
+      "ram": "16gb",
+      "storage": "2TB",
       "camera":"1080p"
     },
     {
-      "id": 3,
-      "name": "Mac Pro",
+      "id": 1,
+      "name": "iMac 24”",
       "display": 4.5,
-      "price": 5999,
-      "color": ["grey"],
-      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macpro__en2pd7zwtl6q_small_2x.png",
-      "chip": "Intel Xeon W processor",
-      "ram": "1.5TB",
-      "storage": "8TB"
+      "price": 1299,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_imac24__5aryzjnxeki2_small_2x.png",
+      "chip": "Apple M1 chip",
+      "ram": "16gb",
+      "storage": "2TB",
+      "camera":"1080p"
     },
     {
       "id": 1,
-      "name": "Mac mini”",
+      "name": "iMac 24”",
       "display": 4.5,
-      "price": 699,
+      "price": 1299,
       "color": ["silver","grey"],
-      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macmini__f53ds86a9eq2_small_2x.png",
+      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_imac24__5aryzjnxeki2_small_2x.png",
       "chip": "Apple M1 chip",
       "ram": "16gb",
-      "storage": "2TB"
+      "storage": "2TB",
+      "camera":"1080p"
     }
   ]
 }

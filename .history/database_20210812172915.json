@@ -74,7 +74,7 @@
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macpro__en2pd7zwtl6q_small_2x.png",
       "chip": "Intel Xeon W processor",
       "ram": "1.5TB",
-      "storage": "8TB"
+      "storage": "8TB",
     },
     {
       "id": 1,
@@ -85,7 +85,8 @@
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macmini__f53ds86a9eq2_small_2x.png",
       "chip": "Apple M1 chip",
       "ram": "16gb",
-      "storage": "2TB"
+      "storage": "2TB",
+      "camera":"1080p"
     }
   ]
 }
