@@ -68,7 +68,7 @@
     {
       "id": 3,
       "name": "Mac Pro",
-      "display": 4.5,
+      "display": "",
       "price": 5999,
       "color": ["grey"],
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macpro__en2pd7zwtl6q_small_2x.png",
@@ -79,7 +79,7 @@
     {
       "id": 4,
       "name": "Mac mini”",
-      "display": 4.5,
+      "display": "",
       "price": 699,
       "color": ["silver","grey"],
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_macmini__f53ds86a9eq2_small_2x.png",
