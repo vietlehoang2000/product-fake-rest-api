@@ -11,6 +11,7 @@
       "ram": "16gb",
       "storage": "2TB",
       "battery": 18,
+      "camera":"720p",
       "weight": 2.8
     },
     {
@@ -24,6 +25,7 @@
       "ram": "16gb",
       "storage": "2TB",
       "battery": 20,
+      "camera":"720p",
       "weight": 3.0
     },
     {
@@ -37,6 +39,7 @@
       "ram": "64gb",
       "storage": "8TB",
       "battery": 11,
+      "camera":"720p",
       "weight": 4.3
     }
   ],
