@@ -54,7 +54,8 @@
       "chip": "Apple M1 chip",
       "ram": "16gb",
       "storage": "2TB",
-      "camera":"1080p"
+      "camera":"1080p",
+      "weight": ""
     },
     {
       "id": 2,
@@ -66,7 +67,8 @@
       "chip": "Core i9 processor",
       "ram": "128gb",
       "storage": "8TB",
-      "camera":"1080p"
+      "camera":"1080p",
+      "weight": ""
     },
     {
       "id": 3,
