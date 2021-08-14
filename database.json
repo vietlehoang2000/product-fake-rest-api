@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "MacBook Air",
+      "version":2020,
       "display": 13.3,
       "price": 999,
       "color": ["gold","silver","grey"],
@@ -17,6 +18,7 @@
     {
       "id": 2,
       "name": "MacBook Pro 13” ",
+      "version":"2020",
       "display": 13.3,
       "price": 1299,
       "color": ["silver","grey"],
@@ -30,7 +32,8 @@
     },
     {
       "id": 3,
-      "name": "MacBook Pro 16” ",
+      "name": "MacBook Pro 16”",
+      "version":"2020",
       "display": 16,
       "price": 2399,
       "color": ["silver","grey"],
@@ -41,12 +44,56 @@
       "battery": 11,
       "camera":"720p",
       "weight": 4.3
+    }, {
+      "id": 4,
+      "name": "MacBook Air ",
+      "version":"2019",
+      "display": 13.3,
+      "price": 999,
+      "color": ["gold","silver","grey"],
+      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_mba__gdncw5gbxoq6_small_2x.png",
+      "chip": "Intel Core i7 processor",
+      "ram": "16gb",
+      "storage": "2TB",
+      "battery": 12,
+      "camera":"720p",
+      "weight": 2.8
+    },
+    {
+      "id": 5,
+      "name": "MacBook Pro 13”",
+      "version":"2019",
+      "display": 13.3,
+      "price": 1199,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_mbp13__geounnnz6oa6_small_2x.png",
+      "chip": "Intel Core i7 processor",
+      "ram": "16gb",
+      "storage": "2TB",
+      "battery": 10,
+      "camera":"720p",
+      "weight": 2.8
+    }, {
+      "id": 6,
+      "name": "MacBook Pro 13.3”",
+      "version":"2018",
+      "display": 13.3,
+      "price": 1199,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_mbp13__geounnnz6oa6_small_2x.png",
+      "chip": "Intel Core i7 processor",
+      "ram": "32gb",
+      "storage": "4TB",
+      "battery": 10,
+      "camera":"720p",
+      "weight": 2.8
     }
   ],
   "Desktop": [
     {
       "id": 1,
       "name": "iMac 24”",
+      "version":"2020",
       "display": 4.5,
       "price": 1299,
       "color": ["silver","grey"],
@@ -54,12 +101,14 @@
       "chip": "Apple M1 chip",
       "ram": "16gb",
       "storage": "2TB",
+      "battery":"",
       "camera":"1080p",
       "weight": ""
     },
     {
       "id": 2,
       "name": "iMac 27”",
+      "version":"2020",
       "display": 5,
       "price": 1799,
       "color": ["grey"],
@@ -67,12 +116,14 @@
       "chip": "Core i9 processor",
       "ram": "128gb",
       "storage": "8TB",
+      "battery":"",
       "camera":"1080p",
       "weight": ""
     },
     {
       "id": 3,
       "name": "Mac Pro",
+      "version":"2020",
       "display": "",
       "price": 5999,
       "color": ["grey"],
@@ -81,11 +132,13 @@
       "ram": "1.5TB",
       "camera":"",
       "storage": "8TB",
+      "battery":"",
       "weight":""
     },
     {
       "id": 4,
       "name": "Mac mini”",
+      "version":"2020",
       "display": "",
       "price": 699,
       "color": ["silver","grey"],
@@ -94,7 +147,78 @@
       "ram": "16gb",
       "camera":"",
       "storage": "2TB",
+      "battery":"",
       "weight":""
+    },{
+      "id": 5,
+      "name": "iMac 21.5”",
+      "version":"2018",
+      "display": 2.0,
+      "price": 1399,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/compare/q/images/overview/compare_imac_21_5_retina_silver__bikhrkgcq3ma_medium_2x.jpg",
+      "chip": "Intel Core i5 processor",
+      "ram": "16gb",
+      "storage": "1TB",
+      "battery":"",
+      "camera":"1080p",
+      "weight": ""
+    },{
+      "id": 6,
+      "name": "iMac 21.5”",
+      "version":"2019",
+      "display": 4.5,
+      "price": 1799,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/compare/q/images/overview/compare_imac_21_5_retina_silver__bikhrkgcq3ma_medium_2x.jpg",
+      "chip": "Intel Core i5 processor",
+      "ram": "32gb",
+      "storage": "1TB",
+      "battery":"",
+      "camera":"1080p",
+      "weight": ""
+    },{
+      "id": 7,
+      "name": "iMac Pro",
+      "version":"2019",
+      "display": 4.5,
+      "price": 3599,
+      "color": ["silver","grey"],
+      "image": "https://www.apple.com/v/mac/compare/q/images/overview/compare_imac_pro_spacegray__enzc535jxhg2_medium_2x.jpg",
+      "chip": "Intel Xeon W processor",
+      "ram": "256gb",
+      "storage": "4TB",
+      "battery":"",
+      "camera":"1080p",
+      "weight": ""
+    },{
+      "id": 8,
+      "name": "Mac mini",
+      "version":"2018",
+      "display": 4.5,
+      "price": 1099,
+      "color": ["grey"],
+      "image": "https://www.apple.com/v/mac/compare/q/images/overview/compare_mac_mini_spacegray__btwqx3pjfd42_medium_2x.jpg",
+      "chip": "Intel Core i7 processor",
+      "ram": "64gb",
+      "storage": "2TB",
+      "battery":"",
+      "camera":"",
+      "weight": ""
+    },{
+      "id": 9,
+      "name": "Mac mini",
+      "version":"2014",
+      "display": 4.5,
+      "price": 899,
+      "color": ["silver"],
+      "image": "https://www.apple.com/v/mac/compare/q/images/overview/compare_mac_mini_2014__7d4x1p01cwyi_medium_2x.jpg",
+      "chip": "Intel Core i7 processor",
+      "ram": "64gb",
+      "storage": "2TB",
+      "battery":"",
+      "camera":"",
+      "weight": ""
     }
   ]
 }
