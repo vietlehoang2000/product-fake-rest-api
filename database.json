@@ -78,7 +78,8 @@
       "chip": "Intel Xeon W processor",
       "ram": "1.5TB",
       "camera":"",
-      "storage": "8TB"
+      "storage": "8TB",
+      "weight":""
     },
     {
       "id": 4,
@@ -90,8 +91,8 @@
       "chip": "Apple M1 chip",
       "ram": "16gb",
       "camera":"",
-      "storage": "2TB"
-      
+      "storage": "2TB",
+      "weight":""
     }
   ]
 }
