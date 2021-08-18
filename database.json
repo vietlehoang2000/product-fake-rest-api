@@ -96,7 +96,7 @@
       "version":"2020",
       "display": 4.5,
       "price": 1299,
-      "color": ["silver","grey"],
+      "color": ["silver","blue","red","green"],
       "image": "https://www.apple.com/v/mac/home/bi/images/overview/compare/compare_imac24__5aryzjnxeki2_small_2x.png",
       "chip": "Apple M1 chip",
       "ram": "16gb",
