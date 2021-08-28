@@ -1,4 +1,9 @@
 {
+  "protected_resources": {
+    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "Notebook": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "Desktop":["GET", "POST", "PUT", "PATCH", "DELETE"]
+  },
   "Notebook": [
     {
       "id": 1,
