@@ -2,8 +2,25 @@
   "protected_resources": {
     "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
     "Notebook": ["GET", "POST", "PUT", "PATCH", "DELETE"],
-    "Desktop":["GET", "POST", "PUT", "PATCH", "DELETE"]
+    "Desktop": ["GET", "POST", "PUT", "PATCH", "DELETE"]
   },
+  "users":[
+    {
+      "id":1,
+      "firstName":"Hoang Viet",
+      "lastName":"Le",
+      "username":"admin",
+      "password":"admin",
+      "avatar": "https://www.facebook.com/photo.php?fbid=2284204288390991&set=pb.100004043259287.-2207520000..&type=3"
+    },{
+      "id":2,
+      "firstName":"Vivian",
+      "lastName":"H.",
+      "username":"vietlehoang2000",
+      "password":"admin",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg"
+    }
+  ],
   "Notebook": [
     {
       "id": 1,
@@ -238,16 +255,6 @@
       "storage": "8TB",
       "battery":"",
       "weight":""
-    }
-  ],
-  "users":[
-    {
-      "id":1,
-      "firstName":"Hoang Viet",
-      "lastName":"Le",
-      "username":"admin",
-      "password":"admin",
-      "avatar": "https://www.facebook.com/photo.php?fbid=2284204288390991&set=pb.100004043259287.-2207520000..&type=3"
     }
   ]
 }
