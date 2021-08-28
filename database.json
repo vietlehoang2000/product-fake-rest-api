@@ -234,5 +234,15 @@
       "battery":"",
       "weight":""
     }
+  ],
+  "users":[
+    {
+      "id":1,
+      "firstName":"Hoang Viet",
+      "lastName":"Le",
+      "username":"admin",
+      "password":"admin",
+      "avatar": "https://www.facebook.com/photo.php?fbid=2284204288390991&set=pb.100004043259287.-2207520000..&type=3"
+    }
   ]
 }
